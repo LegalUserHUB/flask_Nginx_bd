@@ -6,6 +6,6 @@
 ## Установка
 
 ```bash
-git clone https://github.com/Nikiflini/docker-flask-postgres-nginx.git
+git clone git@github.com:LegalUserHUB/flask_Nginx_bd.git
 cd docker-flask-postgres-nginx
 docker-compose up --build
